@@ -1,0 +1,2 @@
+# Feature_Elimination_Mechanism_For_Intrusion_Detection_System
+ Enhanced the efficiency of our Intrusion Detection System by identifying and selecting relevant features in a large dataset,leading to increase in accuracy and reduction in processing time.Utilized a Recursive Feature Elimination process in conjunction with a Decision Tree classifier to accurately identify and eliminate irrelevant features .
